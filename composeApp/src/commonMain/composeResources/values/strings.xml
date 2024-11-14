@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoAp2</string>
+    <string name="drawer_clientes">Clientes</string>
+    <string name="drawer_equiposAnydesks">Equipos AnyDesks</string>
+</resources>
