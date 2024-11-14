@@ -9,7 +9,6 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.sagrd.remotesupport.presentation.cliente.ClienteListScreen
 import com.sagrd.remotesupport.presentation.equiposanydesk.EquipoAnyDeskListScreen
-import edu.ucne.composedemo.presentation.navigation.Screen
 import kotlinx.coroutines.launch
 
 @Composable
@@ -24,7 +23,7 @@ fun SagNavHost(
     ) {
         NavHost(
             navController = navHostController,
-            startDestination = Screen.SistemaList
+            startDestination = Screen.ClienteList
         ) {
 
 

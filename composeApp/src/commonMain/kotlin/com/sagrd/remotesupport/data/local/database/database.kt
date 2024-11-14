@@ -1,6 +1,5 @@
 package com.sagrd.remotesupport.data.local.database
 
-import androidx.room.ConstructedBy
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import org.aarondeveloper.ejemplo1.data.local.dao.CarritoDao
